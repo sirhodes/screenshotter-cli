@@ -1,0 +1,6 @@
+{
+  "maximumLineLength": null,
+  "preset": "node-style-guide",
+  "requireTrailingComma": false,
+  "requireCapitalizedComments": false
+}
