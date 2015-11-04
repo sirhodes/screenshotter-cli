@@ -1,0 +1,19 @@
+{
+  "name": "screenshotter-cli",
+  "version": "0.0.1",
+  "description": "A command line utility to take batch screenshots of a list of links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirhodes/screenshotter-cli.git"
+  },
+  "author": "Seth Rhodes <seth@thinkpixbit.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirhodes/screenshotter-cli/issues"
+  },
+  "homepage": "https://github.com/sirhodes/screenshotter-cli#readme"
+}
